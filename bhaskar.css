@@ -1,0 +1,37 @@
+
+.pad{
+  padding: 0px;
+  }
+.middle{
+  text-align: center;
+  color: black;
+  padding: 10px;
+  
+  text-decoration: underline;
+  }
+.left{
+  text-align: left;
+  }
+.center{
+  text-align: center;
+  }
+.box{
+  padding: 25px;
+  background-color: #f4f4f4;
+}
+.box-1{
+  padding: 25px;
+  border-radius: 20px;
+  background-color: green;
+  
+  
+  }
+.box-2{
+  background: green;
+  }
+.over{
+  background-color: #f4f4f4;
+  background-size: cover;
+  padding: 10px;
+  
+}
